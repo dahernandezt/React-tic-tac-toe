@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-<h1> Tic-tac-toe from Facebook react </h1>
+<h1> Tic-tac-toe from Facebook React Tutorial </h1>
 
 To run:
  1. <b> npm install </b>
